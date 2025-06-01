@@ -23,12 +23,6 @@ This portfolio website was designed and developed by ANUSHA K R. I specialize in
 - **CSS3**
 - **JavaScript**
 
-
-
-## 🤝 Contributing
-
-Feel free to fork this repository, make your own updates, and submit pull requests. Contributions are welcome!
-
 ## 👨‍🎨 Credits
 
 - **Developer**: Anusha K R - I designed and developed this website for Sumod.
